@@ -1,4 +1,4 @@
-# AWS安全自动检查（SMB Sec Assessment 部署） – for海尔教程
+# AWS安全自动检查（SMB Sec Assessment 部署） 
 
 ## 一、创建IAM用户
 
